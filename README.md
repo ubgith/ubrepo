@@ -1,2 +1,2 @@
 # ubrepo
-Learning about the Git and GitBub
+Learning about the Git and Github
